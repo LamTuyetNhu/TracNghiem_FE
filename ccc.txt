@@ -1,0 +1,7 @@
+#3 -> 30p
+npm install --save-exact name@version
+
+Bài thi:
++ 0 Đã vô hiệu hóa
++ 1 Còn hạn
++ 2 hết hạn
